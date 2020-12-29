@@ -1,7 +1,7 @@
 <template>
   <v-content>
     <div class="staticHero">
-      <v-img :aspect-ratio="16/9" src="../assets/Pictures/6.jpg">
+      <v-img :aspect-ratio="25/9" src="../assets/Pictures/5.webp">
         <v-row align="end" class="lightbox white--text pa-2 fill-height">
           <v-col>
             <v-container>

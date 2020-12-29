@@ -32,15 +32,5 @@
     z-index: 2;
     font: bold;
     font-weight : 1000;
-    //300 50px/1.6 $primary-font !important;
-  }
-}
-
-// latest post block
-.latestPostBlock {
-  background: darken($white, 2%);
-
-  .v-card__title {
-    background: rgba(0,0,0,0.3);
   }
 }
