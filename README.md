@@ -22,13 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-#� �i�p�l�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �i�p�l�2�0�2�0�
-�
-�
 
-Page Load Time = 1.24s (Calculated with Page Load time extension for Chrome)
+Page Load Time = 1.24s (Calculated with Page Load time extension for Chrome) 
 For optimization-- Chrome Dev Tools (Lighthouse and PageSpeed Insights)
 Steps for optimization-
 1) Serve Images in next-gen format-- Replaced JPEG Image format with WebP format for better compression.
