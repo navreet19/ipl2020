@@ -9,6 +9,7 @@ import './scss/main.scss';
 import 'ag-grid-enterprise';
 Vue.config.productionTip = false
 const router = new VueRouter({
+  mode: "history",
   routes: [
     { path: '/', component: Home},
     { path: '/about', component: About},
